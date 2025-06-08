@@ -1,16 +1,18 @@
-# roll_dice
+# 🎲 Roll Dice App (Flutter)
 
-A new Flutter project.
+A simple Flutter app that simulates rolling a dice. Each time you tap the "Roll Dice" button, a random dice image is shown.
 
-## Getting Started
+## 🔥 Features
+- Beautiful gradient background
+- Dice image updates randomly on click
+- Easy to use and beginner-friendly Flutter code
 
-This project is a starting point for a Flutter application.
+## 📱 Preview
+![App Screenshot](assets/screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ How to Run
+1. Clone this repo
+2. Run `flutter pub get`
+3. Run the app on any emulator or device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Folder Structure
