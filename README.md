@@ -8,7 +8,7 @@ A simple Flutter app that simulates rolling a dice. Each time you tap the "Roll 
 - Easy to use and beginner-friendly Flutter code
 
 ## 📱 Preview
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/Screenshot.png)
 
 ## 🛠️ How to Run
 1. Clone this repo
